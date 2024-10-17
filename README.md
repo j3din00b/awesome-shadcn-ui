@@ -37,6 +37,7 @@ A curated list of awesome things related to <a href='https://ui.shadcn.com/' tar
 - [crypto-charts](https://github.com/jstnw10/crypto-charts) - Crypto charts made for shadcn/ui using PythNetwork.
 - [date-range-picker-for-shadcn](https://github.com/johnpolacek/date-range-picker-for-shadcn) - Includes multi-month views, text entry, preset ranges, responsive design, and date range comparisons.
 - [date-time-picker-shadcn](https://shadcn-datetime-picker.vercel.app) - Beautifully Crafted Datetime Picker for your shadNext Project.
+- [datetime-picker](https://shadcn-datetime-picker-xi.vercel.app) - A powerful datetime picker with support for timezones, minimum and maximum dates, and month/year selection.
 - [dnd-dashboard](https://github.com/olliethedev/dnd-dashboard) - A beautiful, performant dashboard with drop-to-swap layouts built using Next.js, shadcn/ui, and swapy
 - [downshift-shadcn-combobox](https://github.com/TheOmer77/downshift-shadcn-combobox) - Combobox/autocomplete component built with shadcn/ui and Downshift.
 - [echo-editor](https://github.com/Seedsa/echo-editor) - A modern WYSIWYG rich-text editor base on tiptap and shadcn/ui
@@ -60,13 +61,13 @@ A curated list of awesome things related to <a href='https://ui.shadcn.com/' tar
 - [maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with notion like powerful editor.
 - [minimal-tiptap](https://github.com/Aslam97/shadcn-minimal-tiptap) - A minimal WYSIWYG editor built with shadcn/ui and tiptap.
 - [mixcnui](https://github.com/taqui-786/mixcnui) - Mixui is a collection of animated or re-usable component currently for Nextjs.
-- [motion-number](https://motion-number.barvian.me/) - Transition, format, and localize numbers with a ~3kB Framer Motion component. Accessible and customizable.
 - [mynaui](https://mynaui.com/) - TailwindCSS and shadcn/ui UI Kit for Figma and React.
 - [neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - Collection of neobrutalism-styled Tailwind React and shadcn/ui components.
 - [nextjs-components](https://components.bridger.to/) - A collection of Next.js components build with TypeScript, React, shadcn/ui, Craft UI, and Tailwind CSS.
 - [nextjs-dnd](https://github.com/sujjeee/nextjs-dnd) - Sortable Drag and Drop with Next.js, shadcn/ui, and dnd-kit.
 - [nextjs-link-pagination](https://shadcn-next-link-pagination.vercel.app) - shadcn paging/pagination that uses Nextjs Links and search params
 - [novel](https://github.com/steven-tey/novel) - Novel is a Notion-style WYSIWYG editor with AI-powered autocompletion. Built with [Tiptap](https://tiptap.dev/) + [Vercel AI SDK](https://sdk.vercel.ai/docs).
+- [number-flow](https://number-flow.barvian.me/) - A React component to transition, localize, and format numbers. Dependency-free. Accessible. Customizable.
 - [password-input](https://gist.github.com/mjbalcueva/b21f39a8787e558d4c536bf68e267398) - shadcn/ui custom password input.
 - [payment-gateways](https://github.com/PremPrakashCodes/payment-gateways) - This repository demonstrates how to integrate popular payment gateways like Stripe, Razorpay, PayPal, and Coinbase into a web application using Next.js 14.
 - [phone-input-shadcn-ui](https://www.armand-salle.fr/post/phone-input-shadcn-ui) - Custom phone number component built with shadcn/ui.
@@ -88,6 +89,7 @@ A curated list of awesome things related to <a href='https://ui.shadcn.com/' tar
 - [shadcn-chat](https://github.com/jakobhoeg/shadcn-chat) - Customizable and reusable chat component for you to use in your projects.
 - [shadcn-carousel-testimonials](https://github.com/johanguse/shadcn-carousel-testimonials) - shadcn UI Carousel Testimonials.
 - [shadcn-color-picker](https://shadcn-color-picker.vercel.app/) - A color picker build with react-color and shadcn
+- [shadcn-cookie-consent](https://github.com/r2hu1/shadcn-cookie-consent) - Beautifully designed, customizable cookie consent for web built on top of shadcn-ui and tailwind-css!
 - [shadcn-data-table-advanced-col-opions](https://github.com/danielagg/shadcn-data-table-advanced-col-opions) - Column-resizing option to shadcn/ui DataTable.
 - [shadcn-date-picker](https://date-picker.luca-felix.com) - Advanced date picker with range selection, year and month selection, and more.
 - [shadcn-drag-table](https://github.com/zenoncao/shadcn-drag-table) - A drag-and-drop table component using shadcn/ui and Next.js.
@@ -101,6 +103,7 @@ A curated list of awesome things related to <a href='https://ui.shadcn.com/' tar
 - [shadcn-stepper](https://github.com/damianricobelli/shadcn-stepper) - A complete stepper component built with shadcn/ui.
 - [shadcn-table-v2](https://github.com/sadmann7/shadcn-table) - shadcn/ui table component with server-side sorting, filtering, and pagination.
 - [shadcn-timeline](https://github.com/timDeHof/shadcn-timeline) - Customizable and re-usable timeline component for you to use in your projects. Built on top of shadcn.
+- [shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) - Collection of custom extensions and toolbars for Tiptap editor.
 - [shadcn-tree-view](https://github.com/mrlightful/shadcn-tree-view) - A component for hierarchical lists of data with nested levels that can be expanded and collapsed.
 - [shadcn-ui-blocks](https://shadcn-ui-blocks.vercel.app/) - A collection of Over 10+ fully responsive, UI blocks you can drop into your shadcn/ui projects and customize to your heart's content.
 - [shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) - A lots of useful components which shadcn/ui does not have out of the box.
